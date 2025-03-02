@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABAYO Moise
 ===================================================================================================================================
 
-Web developer and cyber security engineer
+Passionate Web developer 
 -----------------------------------------
 
 I've been learning to code since 2024, i started with HTML,CSS and Javascript after mastery i dived into the Javascript frameworks like NodeJs, ReactJs and other like Next.
