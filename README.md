@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a passionate Web and Software developer 
 -----------------------------------------
 
-I've been learning to code since 2024, i started with HTML,CSS and Javascript after mastery i dived into the Javascript frameworks like NodeJs, ReactJs and other like Next.
+I'm a passionate developer who started my coding journey in 2024. I began with the fundamentals of HTML, CSS, and JavaScript, and after mastering these core technologies, I explored various JavaScript frameworks, including Node.js, React, and Next.js.
 
 ### Skills
 
