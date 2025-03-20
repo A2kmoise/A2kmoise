@@ -1,8 +1,5 @@
-# Hi
+Hi ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) # My name is ABAYO Moise.
 
-![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-# My name is ABAYO Moise.
 
 <hr>
 <h2 style="color:#fff; font-family="Roboto; font-size:30px;">Software and web developer.</h2>
