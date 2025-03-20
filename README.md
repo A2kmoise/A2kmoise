@@ -1,8 +1,8 @@
-<h1 style="color:blue; font-family:Roboto; font-size:50px;">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABAYO Moise.</h1>
+<h1 style="color:blue; font-family:Roboto; font-size:50px;">Hi </h1>![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1 style="color:blue; font-family:Roboto; font-size:50px;">My name is ABAYO Moise.</h1>
 <hr>
 <h2 style="color:#fff; font-family="Roboto; font-size:30px;">Software and web developer.</h2>
 <hr>
-I'm a passionate developer who started my coding journey in 2024. I began with the fundamentals of HTML, CSS, and JavaScript, and after mastering these core technologies, I explored various JavaScript frameworks, including Node.js, React, and Next.js.
+<p style="color:#fff; font-family:Roboto;">I'm a passionate developer who started my coding journey in 2024. I began with the fundamentals of HTML, CSS, and JavaScript, and after mastering these core technologies, I explored various JavaScript frameworks, including Node.js, React, and Next.js.</p>
 <br>
 <h4>TECHSTUCK:</h4>
 
