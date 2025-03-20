@@ -1,4 +1,9 @@
-<h1 style="color:blue; font-family:Roboto; font-size:50px;">Hi </h1>![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1 style="color:blue; font-family:Roboto; font-size:50px;">My name is ABAYO Moise.</h1>
+# Hi
+
+![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+# My name is ABAYO Moise.
+
 <hr>
 <h2 style="color:#fff; font-family="Roboto; font-size:30px;">Software and web developer.</h2>
 <hr>
