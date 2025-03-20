@@ -1,9 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABAYO Moise===================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ABAYO Moise.
+<hr>
 Software and web developer.
 <hr>
 I'm a passionate developer who started my coding journey in 2024. I began with the fundamentals of HTML, CSS, and JavaScript, and after mastering these core technologies, I explored various JavaScript frameworks, including Node.js, React, and Next.js.
 
-### Skills
+TECHSTUCK:
 
 
 <p align="left">
