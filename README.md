@@ -6,6 +6,7 @@
 <hr>
 <p style="color:#fff; font-family:Roboto;"> Passionate developer since 2024, building full-stack apps with React, Node.js, and Next.js.</p>
 <br>
+<hr>
 <h4>TECHSTUCK:</h4>
 
 <p align="left">
