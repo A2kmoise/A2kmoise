@@ -4,7 +4,7 @@
 <hr>
 <h2 style="color:#fff; font-family="Roboto; font-size:30px;">Software and web developer.</h2>
 <hr>
-<p style="color:#fff; font-family:Roboto;">I'm a passionate developer who started my coding journey in 2024. I began with the fundamentals of HTML, CSS, and JavaScript, and after mastering these core technologies, I explored various JavaScript frameworks, including Node.js, React, and Next.js.</p>
+<p style="color:#fff; font-family:Roboto;"> Passionate developer since 2024, building full-stack apps with React, Node.js, and Next.js.</p>
 <br>
 <h4>TECHSTUCK:</h4>
 
