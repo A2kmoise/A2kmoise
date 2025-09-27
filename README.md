@@ -3,7 +3,7 @@
 
 <hr>
 
-<h2 style="color:#fff; font-family:Roboto; font-size:30px;">Software and web developer.</h2>
+<h2 style="color:#fff; font-family:Roboto; font-size:30px;">Full stack developer.</h2>
 
 <hr>
 
