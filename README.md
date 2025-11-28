@@ -3,12 +3,12 @@
 
 <hr>
 
-<h2 style="color:#fff; font-family:Roboto; font-size:30px;">Full stack developer.</h2>
+<h2 style="color:#fff; font-family:Roboto; font-size:30px;">Software developer.</h2>
 
 <hr>
 
 <p style="color:#fff; font-family:Roboto;">
-  Passionate developer since 2024, building full-stack apps with React, Node.js, and Next.js.
+Passionate developer since 2024, building modern full-stack applications with React, Next.js, Node.js, and mobile apps with React Native
 </p>
 
 <br>
