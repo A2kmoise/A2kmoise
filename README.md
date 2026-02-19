@@ -9,7 +9,7 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 
 - 🔭 I’m currently working on full-stack web and mobile projects.
 - 🌱 I’m constantly refining my skills in scalable architecture and cloud integration.
-- ⚡ Fun fact: I enjoy bridge-building between hardware (Arduino) and software.
+- ⚡ Fun fact: I enjoy bridge-building between hardware and software.
 
 ---
 
