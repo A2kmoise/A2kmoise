@@ -1,6 +1,6 @@
 # Hi there, I'm ABAYO Moise 👋
 
-### Software Developer | Cybesecurity entusiast
+### Software Developer | Cybesecurity enthusiast
 
 ---
 
