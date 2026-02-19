@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a passionate developer active since **2024**, dedicated to building high-performance and secured, modern applications. I specialize in crafting seamless user experiences using **React** and **Next.js**, robust backends with **Node.js** and **SpringBoot** and cross-platform mobile solutions with **React Native**.
 
 - 🔭 I’m currently working on full-stack web and mobile projects.
@@ -13,7 +13,7 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,10 +40,3 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
-
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.github.com/A2kmoise" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" alt="GitHub" />
-  </a>
-</p>
