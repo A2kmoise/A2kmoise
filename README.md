@@ -9,7 +9,6 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 
 - 🔭 I’m currently working on full-stack web and mobile projects.
 - 🌱 I’m constantly refining my skills in scalable architecture and cloud integration.
-- ⚡ Fun fact: I enjoy bridge-building between hardware and software.
 
 ---
 
@@ -41,10 +40,10 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 ```java
-// 🐛 Actual incident report — do not laugh (okay, laugh a little)
+//  Actual incident report — do not laugh (okay, laugh a little)
 
 import java.awt.print.Pageable;                    // ← the culprit 🖨️
 // import org.springframework.data.domain.Pageable; // ← should've been this
