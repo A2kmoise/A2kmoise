@@ -40,3 +40,20 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
+
+## ⚡ Fun Fact
+
+```java
+// 🐛 Actual incident report — do not laugh (okay, laugh a little)
+
+import java.awt.print.Pageable;                    // ← the culprit 🖨️
+// import org.springframework.data.domain.Pageable; // ← should've been this
+
+/**
+ * Root cause : java.awt.print.Pageable != org.springframework.data.domain.Pageable
+ * Time to fix : way too long ⏳
+ * Diagnosis   : my API wasn't broken — it just thought it was a printer
+ * Lesson      : always check your imports before blaming Spring 😅
+ */
+```
+
