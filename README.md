@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am a passionate developer active since **2024**, dedicated to building high-performance and secured, modern applications. I specialize in crafting seamless user experiences using **React** and **Next.js**, robust backends with **Node.js** and **SpringBoot** and cross-platform mobile solutions with **React Native**.
+I am a passionate developer active since **2024**, dedicated to building high-performance and secured, modern applications. I specialise in crafting seamless user experiences using **React** and **Next.js**, robust backends with **Node.js** and ** Spring Boot **, and cross-platform mobile solutions with **React Native**.
 
 - 🔭 I’m currently working on full-stack web and mobile projects.
 - 🌱 I’m constantly refining my skills in scalable architecture and cloud integration.
@@ -18,6 +18,8 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Vapor](https://img.shields.io/badge/Vapor-0D0D0D?style=for-the-badge&logo=vapor&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
