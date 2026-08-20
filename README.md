@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am a passionate developer active since **2024**, dedicated to building high-performance and secured, modern applications. I specialise in crafting seamless user experiences using **React** and **Next.js**, robust backends with **Node.js** and ** Spring Boot **, and cross-platform mobile solutions with **React Native**.
+I am a passionate developer active since **2024**, dedicated to building high-performance and secured, modern applications. I specialise in crafting seamless user experiences using **React** and **Next.js**, robust backends with **Node.js** and **Spring Boot**, and cross-platform mobile solutions with **React Native**.
 
 - 🔭 I’m currently working on full-stack web and mobile projects.
 - 🌱 I’m constantly refining my skills in scalable architecture and cloud integration.
