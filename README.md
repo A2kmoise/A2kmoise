@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am a passionate developer active since **2024**, dedicated to building high-performance and secured, modern applications. I specialise in crafting seamless user experiences using **React** and **Next.js**, robust backends with **Node.js** and **Spring Boot**, and cross-platform mobile solutions with **React Native**.
+I am a passionate developer active since **2024**, dedicated to building high-performance and secure, modern applications. I specialise in crafting seamless user experiences using **React** and **Next.js**, robust backends with **Node.js** and **Spring Boot**, and cross-platform mobile solutions with **React Native**.
 
 - 🔭 I’m currently working on full-stack web and mobile projects.
 - 🌱 I’m constantly refining my skills in scalable architecture and cloud integration.
@@ -26,7 +26,9 @@ I am a passionate developer active since **2024**, dedicated to building high-pe
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Vapor](https://img.shields.io/badge/Vapor-0D0D0D?style=for-the-badge&logo=vapor&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
